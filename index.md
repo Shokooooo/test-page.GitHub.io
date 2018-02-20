@@ -29,7 +29,6 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### ああああああ
 
-[これは画像です](valentine0I9A0098_TP_V4.jpg)
 
 ### Support or Contact
 
